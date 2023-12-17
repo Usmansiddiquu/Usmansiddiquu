@@ -1,17 +1,15 @@
 ### Hi there 👋
 I'm a Creative frontend developer crafting captivating e-commerce websites and cutting-edge UI designs to enhance user experiences and
 elevate online interactions.
-🌱 I’m currently learning Node js, Django, DevOps and Artificial intelligence (AI)
-
-💬 Ask me about JavaScript, TypeScript, NextJS, NodeJS, ExpressJS, MongoDB, Firebase, GraphQL, SQL & NO-SQL Databases, AWS, GCP, Jest, Cypress, Python and Django
+🌱 I’m currently learning Node js, Express js, Next js, React native
 
 📫 Feel free to email me at usmansiddiquimuhammad@gmail.com
 
 Connect with me:
-https://www.linkedin.com/in/muhammad-usmansiddiqui-004772272/
+muhammad-usmansiddiqui-004772272/
 
 Languages and Tools:
-HTML CSS bootstrap  javascript express firebase  git  nextjs nodejs react reactnative redux sass tailwind MUI Antdesign
+HTML CSS bootstrap  javascript express firebase git react sass tailwind MUI Antdesign
 
 
 <!--
