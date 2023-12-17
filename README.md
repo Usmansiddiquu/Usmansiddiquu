@@ -6,7 +6,8 @@ elevate online interactions.
 📫 Feel free to email me at usmansiddiquimuhammad@gmail.com
 
 Connect with me:
-muhammad-usmansiddiqui-004772272/
+
+https://www.linkedin.com/in/muhammad-usmansiddiqui/
 
 Languages and Tools:
 HTML CSS bootstrap  javascript express firebase git react sass tailwind MUI Antdesign
