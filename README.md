@@ -10,6 +10,7 @@ Connect with me:
 https://www.linkedin.com/in/muhammad-usmansiddiqui/
 
 Languages and Tools:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
 HTML CSS bootstrap  javascript express firebase git react sass tailwind MUI Antdesign
 
 
